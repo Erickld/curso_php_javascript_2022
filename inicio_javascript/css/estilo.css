@@ -1,0 +1,15 @@
+body{
+    margin: 35px;
+    background-color: rgb(154, 213, 221);
+}
+.titulo{
+    font-size: 60px;
+    color: rgb(19, 2, 59);
+}
+img{
+    width: 800px;
+}
+.descripcion-tienda{
+    background-color: aliceblue;
+    padding: 20px;
+}
